@@ -36,7 +36,7 @@ Linear regression explains about 72% of the variation in duration and roughly ha
 | File | Description |
 |---|---|
 | `Taxi_Duration_Deliverable1.ipynb` | Colab notebook: data loading, quality checks, cleaning, exploration, preprocessing, initial model |
-| `Deliverable1_Taxi_Duration_Report_APA.docx` | Written report (APA format) |
+| `Deliverable1_Taxi_Duration_Report_APA.docx` | Written report |
 
 ## How to Run
 1. Open `Taxi_Duration_Deliverable1.ipynb` in Google Colab (File → Upload notebook, or open from this repo).
